@@ -6,7 +6,7 @@ export default class App extends Component {
     return (
       <View>
         <Text>
-            Code With Rohit
+            Code With Rohit in React Native
         </Text>
       </View>
     )
